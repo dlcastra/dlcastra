@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
 <h3 align="center">A passionate Python Back-end develope from Ukraine</h3>
-<img aling="center" alt="Coding" width="40%" src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlcastra&label=Profile%20views&color=0e75b6&style=flat" alt="dlcastra" /> </p>
 
