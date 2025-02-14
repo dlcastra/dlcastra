@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlcastra&label=Profile%20views&color=0e75b6&style=flat" alt="dlcastra" /> </p>
 
-- 🌱 I’m currently learning **Django and everything that can be useful in web development**
+- 🌱 Over the past 2 years, I have immersed myself in the study of various
+ programming languages, with a strong focus on Python. My expertise
+ lies in developing and delivering robust projects using Python,
+ leveraging its versatility and extensive library ecosystem.
+ Tools and services such as Scrapy, Heroku, AWS, Google Cloud
+ Platform, Auth0, allauth, Mailjet, Twilio, SendGrid, Postman, and many
+ others have also been included in developmen
 
 - 📫 How to reach me **ivanovdmytro364@gmail.com**
 
