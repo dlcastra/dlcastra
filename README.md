@@ -12,6 +12,7 @@
  others have also been included in developmen
 
 - 📫 How to reach me **ivanovdmytro364@gmail.com**
+- 👋 Connect with me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/dmytro-ivanov-761b56287/" target="blank alt="LinkedIn"</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
